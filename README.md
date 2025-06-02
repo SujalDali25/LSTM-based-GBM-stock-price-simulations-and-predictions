@@ -20,22 +20,6 @@ Runs ML-driven GBM simulations for probabilistic future price paths
 
 Visualizes training, prediction accuracy, volatility/drift, risk metrics, and technical analysis charts
 
-Installation
-Clone the repo:
-git clone https://github.com/yourusername/your-repo.git
-
-Navigate into the folder:
-cd your-repo
-
-Create and activate a Python virtual environment (optional but recommended):
-
-bash
-Copy
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-Install dependencies:
-pip install -r requirements.txt
 
 Usage
 Modify the ticker symbol and hyperparameters in main.py if needed
