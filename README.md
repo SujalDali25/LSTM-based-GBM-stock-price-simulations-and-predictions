@@ -50,7 +50,7 @@ Output
 Predicted Price
 The model predicts next-day stock prices by learning complex temporal patterns from a rich set of technical indicators. You will see plots comparing actual historical prices against the model’s predicted prices, showing how well the model fits and forecasts future values.
 
-![prediction price](https://github.com/user-attachments/assets/9fde0931-4c3f-418e-8fff-5642a0a0bef1)
+![simulations](https://github.com/user-attachments/assets/93862422-a237-4ea8-acee-991b0d1754a9)
 Simulations
 Using the predicted volatility and drift, the project runs enhanced Geometric Brownian Motion (GBM) simulations to generate multiple possible future price paths. This approach provides a probabilistic view of potential stock price trajectories rather than a single deterministic forecast.
 
